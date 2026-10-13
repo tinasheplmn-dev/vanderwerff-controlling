@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /beheer
+Disallow: /_data/
+Disallow: /_bouw/
+Disallow: /api/
+
+Sitemap: https://vanderwerffcontrolling.nl/sitemap.xml

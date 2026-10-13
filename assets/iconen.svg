@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- Eigen set, lijndikte via .ic (1.8 tot 2). Vormen getekend op basis van Lucide (MIT), aangepast aan het merk:
+       afgeronde uiteinden, staafjes en pijlen uit het logo. -->
+
+  <!-- live inzicht: staafjes uit het logo met een trendlijn -->
+  <symbol id="i-grafiek" viewBox="0 0 24 24"><path d="M4 20h16"/><path d="M6.5 16.5v-4"/><path d="M11 16.5v-6.5"/><path d="M15.5 16.5v-9"/><path d="M5 9.5l5-4 3.5 2.5L19 3.5"/><path d="M15.5 3.5H19V7"/></symbol>
+  <!-- vooruitdenken: kalender met pijl vooruit -->
+  <symbol id="i-vooruit" viewBox="0 0 24 24"><rect x="3" y="4.5" width="13" height="15" rx="2.5"/><path d="M3 9h13"/><path d="M7 2.5v4M12 2.5v4"/><path d="M14 15.5h7"/><path d="M18.5 13l2.5 2.5-2.5 2.5"/></symbol>
+  <!-- snel antwoord buiten kantooruren: tekstballon met maan -->
+  <symbol id="i-antwoord" viewBox="0 0 24 24"><path d="M20.5 12.5a7.5 7.5 0 0 1-11 6.6L4 20.5l1.4-4.6A7.5 7.5 0 1 1 20.5 12.5z"/><path d="M14.6 9.2a3 3 0 1 0 2.2 4.4 2.4 2.4 0 0 1-2.2-4.4z"/></symbol>
+  <!-- all-in tarief: prijskaartje met euroteken -->
+  <symbol id="i-tarief" viewBox="0 0 24 24"><path d="M3.5 12.6V4.5a1 1 0 0 1 1-1h8.1a1 1 0 0 1 .7.3l7.4 7.4a1.5 1.5 0 0 1 0 2.1l-7.6 7.6a1.5 1.5 0 0 1-2.1 0l-7.2-7.2a1 1 0 0 1-.3-.7z"/><path d="M13.6 10.4a2.4 2.4 0 1 0 0 3.2"/><path d="M9.6 11.3h3M9.6 12.9h3"/><circle cx="7.6" cy="7.6" r=".9"/></symbol>
+  <!-- synchroniseren: de draaiende pijlen uit het logo -->
+  <symbol id="i-sync" viewBox="0 0 24 24"><path d="M20 11a8 8 0 0 0-14.3-4.6L4 8.5"/><path d="M4 4v4.5h4.5"/><path d="M4 13a8 8 0 0 0 14.3 4.6l1.7-2.1"/><path d="M20 20v-4.5h-4.5"/></symbol>
+  <symbol id="i-pijl" viewBox="0 0 24 24"><path d="M4.5 12h15"/><path d="M13.5 6l6 6-6 6"/></symbol>
+  <symbol id="i-pijl-links" viewBox="0 0 24 24"><path d="M19.5 12h-15"/><path d="M10.5 6l-6 6 6 6"/></symbol>
+  <symbol id="i-telefoon" viewBox="0 0 24 24"><path d="M21 16.6v2.9a2 2 0 0 1-2.2 2A19.8 19.8 0 0 1 2.5 5.2 2 2 0 0 1 4.5 3h2.9a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.4 10.8a16 16 0 0 0 4.8 4.8l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M3 6.5l9 6.5 9-6.5"/></symbol>
+  <symbol id="i-video" viewBox="0 0 24 24"><rect x="2.5" y="6" width="13.5" height="12" rx="2.5"/><path d="M16 10.5l5.5-3v9l-5.5-3"/></symbol>
+  <symbol id="i-kalender" viewBox="0 0 24 24"><rect x="3" y="4.5" width="18" height="16" rx="2.5"/><path d="M3 9.5h18"/><path d="M8 2.5v4M16 2.5v4"/><path d="M7.5 13.5h2M11 13.5h2M14.5 13.5h2M7.5 17h2M11 17h2"/></symbol>
+  <symbol id="i-klok" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></symbol>
+  <symbol id="i-ster" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3L2.9 9.5l6.3-.9z"/></symbol>
+  <symbol id="i-zoek" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5l5 5"/></symbol>
+  <!-- aangifte: formulier met regels en een vink in een vakje -->
+  <symbol id="i-aangifte" viewBox="0 0 24 24"><path d="M14 2.5H6.5a2 2 0 0 0-2 2v15a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V8z"/><path d="M14 2.5V8h5.5"/><path d="M8 12.5h4M8 16.5h3"/><rect x="13.5" y="13.5" width="3.5" height="3.5" rx=".8"/></symbol>
+  <!-- audit: vergrootglas over staafjes -->
+  <symbol id="i-audit" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="7"/><path d="M15.6 15.6l5 5"/><path d="M7.8 13v-2M10.5 13V8.5M13.2 13v-3.2"/></symbol>
+  <!-- advies: twee gesprekballonnen -->
+  <symbol id="i-advies" viewBox="0 0 24 24"><path d="M14.5 9.5a5.5 5.5 0 0 1-8 4.9L3 15.5l1-3.3a5.5 5.5 0 1 1 10.5-2.7z"/><path d="M10.6 16.3a5.5 5.5 0 0 0 6.9 1.6l3.5 1.1-1-3.3a5.5 5.5 0 0 0-3.4-7.6"/></symbol>
+  <!-- boekhouding uitbesteden: laptop met staafjes -->
+  <symbol id="i-boekhouding" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="11.5" rx="2"/><path d="M2 19.5h20"/><path d="M8.5 12.5v-2M12 12.5V7.5M15.5 12.5v-3.5"/></symbol>
+  <symbol id="i-pakket" viewBox="0 0 24 24"><path d="M21 8l-9-5-9 5v8l9 5 9-5z"/><path d="M3 8l9 5 9-5"/><path d="M12 13v8"/><path d="M7.5 5.5l9 5"/></symbol>
+  <!-- artikel 23: container met pijl die niet voorgefinancierd hoeft -->
+  <symbol id="i-invoer" viewBox="0 0 24 24"><rect x="2.5" y="8" width="13" height="10" rx="1.5"/><path d="M6 11v4M9 11v4M12 11v4"/><path d="M15.5 13h6"/><path d="M19 10.5l2.5 2.5-2.5 2.5"/><path d="M5 8V5.5h8V8"/></symbol>
+  <!-- eenloketsysteem: wereldbol met een loket-pijl -->
+  <symbol id="i-loket" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></symbol>
+  <symbol id="i-locatie" viewBox="0 0 24 24"><path d="M12 21.5s-7-6.2-7-11.5a7 7 0 0 1 14 0c0 5.3-7 11.5-7 11.5z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3.5v12"/><path d="M7 11l5 5 5-5"/><path d="M4 20.5h16"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h10"/></symbol>
+  <symbol id="i-sluit" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+  <symbol id="i-vink" viewBox="0 0 24 24"><path d="M4.5 12.5l5 5 10-11"/></symbol>
+  <symbol id="i-boek" viewBox="0 0 24 24"><path d="M4 19.5V5a2 2 0 0 1 2-2h13.5v16H6a2 2 0 0 0-2 2.5z"/><path d="M4 19.5A2 2 0 0 0 6 21.5h13.5"/><path d="M9 8h6M9 11.5h4"/></symbol>
+  <symbol id="i-diploma" viewBox="0 0 24 24"><path d="M2.5 9L12 4.5 21.5 9 12 13.5z"/><path d="M6.5 11v4.5c0 1.5 2.5 3 5.5 3s5.5-1.5 5.5-3V11"/><path d="M21.5 9v5"/></symbol>
+  <symbol id="i-handdruk" viewBox="0 0 24 24"><path d="M11 17l2 2a1.4 1.4 0 0 0 2-2"/><path d="M14 14l2.5 2.5a1.4 1.4 0 0 0 2-2l-3.9-3.9a2.8 2.8 0 0 0-4 0l-.9.9a1.4 1.4 0 1 1-2-2l2.8-2.8a5.4 5.4 0 0 1 6.6-.8l.5.3a3 3 0 0 0 2 .4H21"/><path d="M21 3.5l1 10.5h-2"/><path d="M3 3.5L2 14l6.5 6.5a1.4 1.4 0 0 0 2-2"/><path d="M3 4.5h7"/></symbol>
+  <symbol id="i-euro" viewBox="0 0 24 24"><path d="M18 6.5a7 7 0 1 0 0 11"/><path d="M4 10.5h9M4 13.5h9"/></symbol>
+  <symbol id="i-schild" viewBox="0 0 24 24"><path d="M12 21.5s8-3.5 8-10V5l-8-2.5L4 5v6.5c0 6.5 8 10 8 10z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></symbol>
+  <symbol id="i-geld" viewBox="0 0 24 24"><rect x="2.5" y="6" width="19" height="12" rx="2"/><circle cx="12" cy="12" r="2.6"/><path d="M6 9.5v5M18 9.5v5"/></symbol>
+  <symbol id="i-lamp" viewBox="0 0 24 24"><path d="M9 18h6M10 21.5h4"/><path d="M12 2.5a6.5 6.5 0 0 0-4 11.6c.6.5 1 1.3 1 2.1V17h6v-.8c0-.8.4-1.6 1-2.1A6.5 6.5 0 0 0 12 2.5z"/></symbol>
+  <symbol id="i-linkedin" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.75h4v11H3zM9.5 9.75h3.8v1.5h.05c.53-1 1.84-2.05 3.8-2.05 4.05 0 4.85 2.65 4.85 6.1v5.45h-4v-4.85c0-1.15 0-2.65-1.6-2.65s-1.85 1.25-1.85 2.55v4.95h-4z"/></symbol>
+  <symbol id="i-facebook" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M13.5 21.5v-8h2.7l.4-3.2h-3.1V8.3c0-.9.3-1.5 1.6-1.5h1.7V4a22 22 0 0 0-2.5-.1c-2.4 0-4.1 1.5-4.1 4.2v2.3H7.5v3.2h2.7v8z"/></symbol>
+  <symbol id="i-youtube" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M21.6 7.2a2.6 2.6 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.6 2.6 0 0 0 2.4 7.2 27 27 0 0 0 2 12a27 27 0 0 0 .4 4.8 2.6 2.6 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.6 2.6 0 0 0 1.8-1.8A27 27 0 0 0 22 12a27 27 0 0 0-.4-4.8zM10 15V9l5.2 3z"/></symbol>
+<symbol id="i-r-persoon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c.8-3.6 3.6-5.6 7-5.6s6.2 2 7 5.6"/></symbol><symbol id="i-r-ondernemer" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="7.5" width="17" height="12" rx="2.2"/><path d="M9 7.5V5.8A1.8 1.8 0 0 1 10.8 4h2.4A1.8 1.8 0 0 1 15 5.8v1.7"/><path d="M3.5 12.5h17"/><path d="M11 12.5v2h2v-2"/></symbol><symbol id="i-r-loon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3.5" width="14" height="17" rx="2"/><path d="M8.5 8h7M8.5 11.5h7M8.5 15h4"/><path d="M15 15.2l1 1 2-2.2"/></symbol><symbol id="i-r-vpb" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20.5h16"/><path d="M6 20.5V9l6-4.5L18 9v11.5"/><path d="M9.5 20.5v-4.5h5v4.5"/><path d="M9.5 11.5h1M13.5 11.5h1"/></symbol><symbol id="i-r-btw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M3.8 12h16.4M12 3.5c2.4 2.4 3.6 5.2 3.6 8.5S14.4 18.1 12 20.5M12 3.5C9.6 5.9 8.4 8.7 8.4 12s1.2 6.1 3.6 8.5"/></symbol><symbol id="i-r-formeel" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v16M7.5 20h9"/><path d="M5 8h14"/><path d="M5 8l-2.5 6a2.8 2.8 0 0 0 5 0z"/><path d="M19 8l-2.5 6a2.8 2.8 0 0 0 5 0z"/></symbol><symbol id="i-r-erf" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="9" width="16" height="11" rx="1.8"/><path d="M3 9h18v-2.5H3z"/><path d="M12 6.5V20"/><path d="M12 6.5C10.6 3.6 7.4 3.4 7.6 5.3c.2 1.4 2.6 1.2 4.4 1.2 1.8 0 4.2.2 4.4-1.2.2-1.9-3-1.7-4.4 1.2"/></symbol></svg>

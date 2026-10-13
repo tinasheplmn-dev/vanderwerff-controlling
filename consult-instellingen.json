@@ -1,0 +1,11 @@
+{
+  "_uitleg": "Tijden voor het gratis consult. duurMinuten = lengte van een afspraak. dagStart en dagEind in uu:mm. werkdagen: 1 = maandag t/m 5 = vrijdag (0 = zondag, 6 = zaterdag). pauzes: bijvoorbeeld [{\"van\": \"12:00\", \"tot\": \"13:00\"}]. gesloten: losse dagen zonder consulten, bijvoorbeeld [\"2026-12-24\"]. OPEN PUNT: Andries bevestigt zijn echte beschikbaarheid.",
+  "duurMinuten": 20,
+  "dagStart": "09:00",
+  "dagEind": "17:00",
+  "werkdagen": [1, 2, 3, 4, 5],
+  "dagenVooruit": 45,
+  "minimaalUrenVooraf": 2,
+  "pauzes": [],
+  "gesloten": []
+}
